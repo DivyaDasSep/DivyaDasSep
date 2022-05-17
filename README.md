@@ -1,11 +1,6 @@
 ### Hi there I am Divya Das👋
-### I am a Data Scientist(MSc Data Science & Artificial Intelligence)
-### Please checkout my work and hep me improve.
-
-<!--
-**DivyaDasSep/DivyaDasSep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### I am a Data Scientist(MSc Data Science & Artificial Intelligence)
+#### Please checkout my work and hep me improve.
 
 - 🔭 I’m currently working on ...Deep Learning
 - 🌱 I’m currently learning ...Speech Emotion Recognition methods
