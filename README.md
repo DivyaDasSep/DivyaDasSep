@@ -34,6 +34,21 @@ Please check out my work and help me improve.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original-wordmark.svg" alt="spaCy" width="40" height="40"/> 
 </a> 
 
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40"/> 
+</a> 
+
+<!-- NLTK -->
+<a href="https://www.nltk.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original-wordmark.svg" alt="NLTK" width="40" height="40"/> 
+</a> 
+
+<!-- spaCy -->
+<a href="https://spacy.io/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original-wordmark.svg" alt="spaCy" width="40" height="40"/> 
+</a> 
+
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
