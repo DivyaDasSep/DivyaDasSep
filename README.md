@@ -21,22 +21,32 @@ Please check out my work and help me improve.
 </a> 
 <!-- Hugging Face -->
 <a href="https://huggingface.co/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original-wordmark.svg" alt="Hugging Face" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/hugging-face.png" alt="Hugging Face" width="40" height="40"/> 
 </a> 
 
 <!-- NLTK -->
 <a href="https://www.nltk.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original-wordmark.svg" alt="NLTK" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/nltk.png" alt="NLTK" width="40" height="40"/> 
 </a> 
 
 <!-- spaCy -->
 <a href="https://spacy.io/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original-wordmark.svg" alt="spaCy" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/spacy.png" alt="spaCy" width="40" height="40"/> 
 </a> 
 
 <!-- Keras -->
 <a href="https://keras.io/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/> 
+</a> 
+
+<!-- Gensim -->
+<a href="https://radimrehurek.com/gensim/" target="_blank"> 
+  <img src="https://img.icons8.com/color/48/000000/gensim.png" alt="Gensim" width="40" height="40"/> 
+</a> 
+
+<!-- OpenAI -->
+<a href="https://openai.com/" target="_blank"> 
+  <img src="https://img.icons8.com/color/48/000000/openai.png" alt="OpenAI" width="40" height="40"/> 
 </a> 
 
 <!-- NLTK -->
