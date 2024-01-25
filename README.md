@@ -2,15 +2,21 @@
 #### I am a Data Scientist(MSc Data Science & Artificial Intelligence)
 #### Please check out my work and help me improve.
 
-- 🔭 I’m currently working on ...Generative AI
-- 🌱 I’m currently learning ...Large Language Models
-- 👯 I’m looking to collaborate on ...Anything Data Science & Machine Learning
-- 🤔 I’m looking for help with ...Improving my skills as a Data Scientist
-- 💬 Ask me about ...Anything 
-- 📫 How to reach me: ...[Linkedin Profile](https://www.linkedin.com/in/divyadassep)
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...Time is running....Have a Life...
--->
+👋 Data Scientist passionate about Generative AI & Large Language Models (LLMs)
+
+🧠 Specializing in GANs, Transformers, & Variational Autoencoders for creative AI
+
+📚 Experienced in fine-tuning pre-trained models like GPT
+
+🔍 Skilled in data analysis, modeling, & deployment
+
+💼 Seeking opportunities in AI research & applications
+
+🌟 Let's innovate with data together!
+
+📫 How to reach me: ...[Linkedin Profile](https://www.linkedin.com/in/divyadassep)
+
+
 
 
 ### 🔨 Languages and Tools:
