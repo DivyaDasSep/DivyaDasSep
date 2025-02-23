@@ -4,7 +4,7 @@
 📍 United Kingdom  
 📧 Email: divyadassep@gmail.com  
 🔗 LinkedIn: [divyadassep](https://www.linkedin.com/in/divyadassep/)  
-👨‍💻 GitHub: [sajal2692](https://github.com/DivyaDasSep)  
+👨‍💻 GitHub: [DivyaDasSep](https://github.com/DivyaDasSep)  
 
 ## About Me 🌐
 
