@@ -1,14 +1,14 @@
 # Hi there, I'm Divya Das! 👋
 
-🚀 Data Scientist focusing on NLP, Generative AI, LLM  
-📍 United Kingdom  
+🚀 Data Scientist focusing on NLP, Generative AI, LLM, RAG, Agentic AI
+📍 United Arab Emirates
 📧 Email: divyadassep@gmail.com  
 🔗 LinkedIn: [divyadassep](https://www.linkedin.com/in/divyadassep/)  
 👨‍💻 GitHub: [DivyaDasSep](https://github.com/DivyaDasSep)  
 
 ## About Me 🌐
 
-Blending 8+ years in data science, technical presales, data analysis, business analysis, and project management with the focused expertise of 2+ years of experience in data science and a master’s degree in Data Science and Artificial Intelligence bringing expertise in Generative AI, Natural Language Processing, statistical analysis, data analysis, machine learning, deep learning & data visualization. Proficient in translating intricate technical concepts for audiences of varying technical backgrounds.
+Blending 11+ years in data science, technical presales, data analysis, business analysis, and project management with the focused expertise of 5+ years of experience in Data Science & Artificial Intelligence and a master’s degree in Data Science and Artificial Intelligence bringing expertise in Generative AI, Natural Language Processing, statistical analysis, data analysis, machine learning, deep learning & data visualization. Proficient in translating intricate technical concepts for audiences of varying technical backgrounds.
 
 ## Professional Highlights 🌟
 - **Senior Data & Gen AI Engineer** - Wood, UAE (2025 - Present)
